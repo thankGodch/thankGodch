@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thankGodch
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS  & js
 - 💞️ I’m looking to collaborate on evrything
 - 📫 How to reach me ichokrallah00@gmail.com
 - 😄 Pronouns: thankGod  
